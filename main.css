@@ -116,6 +116,17 @@
 }
 }
 
+.city-image {
+	display: block;
+	margin: auto;
+	max-width: 95%;
+	padding-top: 2rem;
+}
+.caption {
+	font-style: italic;
+	font-size: 12px;
+	padding-top: 1rem;
+}
 
 
 
